@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+### Welcome to my GitHub Profile!
+The following is a brief overview of my capabilities and experience I have gained to date.
+## Interests
 
-You can use the [editor on GitHub](https://github.com/jsundy/jsundy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* Backend development 
+* Sneaker Head
+* Fitness Fanatic
+* Machine Learning
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
+Programming Languages:
+*	C++, Java, Python
+Programming frameworks:
+*	Django
+Programming Areas:
+*	IOT integration
+* Bots
+* Machine learning
 
-### Markdown
+## Education
+*	Matriculated (2017) - Crawford Sandton
+*	BSc Computer Science - University of Pretoria (2018-)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Work Experience 
+Intership over the December holiday in NYC for Candid - Teeth alignment company. At the company I was exposed to modern day cloud architectures using AWS, and Heroku. Specifically, I was assigned to a team of Engineers that worked on an event driven system run on a Django and Node server, allowing Mechanical Engineers to oversee the production of teeth aligners. This was very beneficial as it exposed me to event driven technology that is used in most IOT architectures.
 
-```markdown
-Syntax highlighted code block
+## Accolades
+Member of the Golden Key Honour Society.
 
-# Header 1
-## Header 2
-### Header 3
+## Attitudes
+* Talk is cheap, integrity is priceless.
+*	Speak without speaking - actions speak louder than words.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsundy/jsundy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [my github page](https://github.com/jsundy).
