@@ -1,5 +1,6 @@
 ### Welcome to my GitHub Profile!
 The following is a brief overview of my capabilities and experience I have gained to date.
+For more in depth knowledge about me visit my [LinkedIn profile](https://www.linkedin.com/in/jonathen-sundy-79b33b168/)
 ## Interests
 
 * Backend development 
